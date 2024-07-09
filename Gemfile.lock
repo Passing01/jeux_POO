@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    bundle (0.0.1)
+      bundler
     date (3.3.4)
     time (0.3.0)
       date
@@ -9,6 +11,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bundle
   time
 
 BUNDLED WITH
